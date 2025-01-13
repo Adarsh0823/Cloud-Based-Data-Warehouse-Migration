@@ -1,0 +1,9 @@
+{
+  "aws_access_key_id": "your-access-key-id",
+  "aws_secret_access_key": "your-secret-access-key",
+  "region_name": "your-region", 
+  "rds_endpoint": "your-rds-endpoint.amazonaws.com",
+  "rds_port": "5432",
+  "s3_bucket_name": "your-s3-bucket-name",
+  "s3_region": "your-s3-region"
+}
